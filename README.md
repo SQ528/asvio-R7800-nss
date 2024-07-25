@@ -1,5 +1,6 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+asvio-R7800-nss [https://github.com/ricsc/openwrt/tree/openwrt-23.05-nss-qsdk11 ](https://github.com/asvio/R7800-nss) 👈⭐
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
