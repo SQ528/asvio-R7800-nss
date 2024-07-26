@@ -18,7 +18,7 @@ on:
 
 env:
   REPO_URL: https://github.com/asvio/R7800-nss
-  REPO_BRANCH: r7800-23.05-nss
+  REPO_BRANCH: r7800-23.05.4-nss
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
