@@ -14,7 +14,7 @@ name: Update Checker
 
 env:
   REPO_URL: https://github.com/asvio/R7800-nss
-  REPO_BRANCH: r7800-23.05-nss
+  REPO_BRANCH: r7800-23.05.4-nss
 
 on:
   workflow_dispatch:
